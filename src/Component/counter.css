@@ -1,0 +1,13 @@
+.bloc-btn {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+button {
+  width: 100px;
+  height: 20px;
+}
+h2 {
+  text-align: center;
+  font-size: 35px;
+}
